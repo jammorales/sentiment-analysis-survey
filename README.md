@@ -1,5 +1,5 @@
 # Sentiment analysis survey
-[sentiment-analysis-survey](https://github.com/jamiemorales/sentiment-analysis-survey/edit/main/README.md)
+[sentiment-analysis-survey](https://github.com/jamiemorales/sentiment-analysis-survey/blob/main/README.md)
  
  
 Papers on sentiment analysis
