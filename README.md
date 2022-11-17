@@ -5,5 +5,6 @@ Ongoing project.
 Last updated 2022.11.16.
 
 ### Lexicon-based ###
-* Bradley, M.M. and Lang, P.J. 1999. Affective norms for english words (anew): Instruction manual and affective ratings. Tech. Rep., Technical Report C-1, The Center for Research in Psychophysiology, University of Florida. 
+* Bradley, M.M. and Lang, P.J. 1999. Affective Norms for English Words (ANEW): Instruction manual and affective ratings. Tech. Rep., Technical Report C-1, The Center for Research in Psychophysiology, University of Florida. 
 * Stone, P., Dunphy, D.C., Smith, M.S., Ogilvie, D.M., and associates. The General Inquirer: A Computer Approach to Content Analysis. The MIT Press.
+* Warriner, A.B., Kuperman, V., and Brysbaert, M. 2013. Norms of valence, arousal, and dominance for 13, 915 English lemmas.
